@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shaza Alkheder 👋</h1>
 
-<h3 align="center">Backend Developer | Laravel & PHP Specialist</h3>
+<h3 align="center">Software Developer | Backend & Web Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shaza-alkheder">
@@ -15,20 +15,21 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Backend Developer specializing in Laravel and PHP**, focused on building reliable, scalable, and maintainable web applications.
+I'm a **Software Developer** with a strong focus on **backend and web application development**, specializing in **PHP and Laravel**.
+
+I enjoy designing and building reliable, scalable, and maintainable software solutions, with experience across backend development, APIs, databases, integrations, and modern web technologies.
 
 My core areas include:
 
-* 🚀 Backend development with **Laravel & PHP**
+* 🚀 Backend development with **PHP & Laravel**
 * 🔌 **RESTful API** design and development
 * 🗄️ Database design and query optimization
-* 🔐 Secure and maintainable backend architectures
+* 🔐 Secure and maintainable software architectures
 * ⚡ Performance optimization and caching
 * 🔗 Third-party API and service integrations
 * 📡 Real-time applications using **WebSockets**
-* ☁️ Cloud storage and modern development tools
-
-I also work with **Vue.js, Inertia.js, and Nuxt.js** to integrate backend systems with modern frontend applications.
+* 🌐 Modern frontend development with **Vue.js & React**
+* ☁️ Cloud services and modern development tools
 
 ---
 
@@ -39,8 +40,21 @@ I also work with **Vue.js, Inertia.js, and Nuxt.js** to integrate backend system
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=flat" />
+<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Databases
@@ -50,17 +64,6 @@ I also work with **Vue.js, Inertia.js, and Nuxt.js** to integrate backend system
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat" />
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 </p>
 
 ### Tools & Services
@@ -82,10 +85,11 @@ I also work with **Vue.js, Inertia.js, and Nuxt.js** to integrate backend system
 ## 🎯 Current Focus
 
 * Deepening my expertise in **Laravel & PHP**
-* Designing scalable and maintainable **backend architectures**
+* Building scalable and maintainable **software architectures**
 * Improving **API design and application performance**
+* Expanding my frontend expertise with **React and modern JavaScript**
 * Working with **Docker and cloud technologies**
-* Building reliable, production-ready software
+* Continuously learning and improving software engineering practices
 
 ---
 
