@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shaza Alkheder 👋</h1>
 
-<h3 align="center">Software Developer | Backend & Web Development</h3>
+<h3 align="center">Software Developer | Backend & Web Applications | PHP & Laravel</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shaza-alkheder">
@@ -15,20 +15,21 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Developer** with a strong focus on **backend and web application development**, specializing in **PHP and Laravel**.
+I'm a **Software Developer** focused on building reliable, scalable, and maintainable **backend and web applications**.
 
-I enjoy designing and building reliable, scalable, and maintainable software solutions, with experience across backend development, APIs, databases, integrations, and modern web technologies.
+My work centers around **PHP and Laravel**, with a strong focus on API development, database design, application architecture, integrations, performance, and secure software development.
 
-My core areas include:
+### Core Areas
 
 * 🚀 Backend development with **PHP & Laravel**
-* 🔌 **RESTful API** design and development
-* 🗄️ Database design and query optimization
-* 🔐 Secure and maintainable software architectures
+* 🔌 **RESTful API** architecture and development
+* 🗄️ Database design, optimization, and data management
+* 🏗️ Scalable and maintainable software architecture
+* 🔐 Secure application development
 * ⚡ Performance optimization and caching
 * 🔗 Third-party API and service integrations
-* 📡 Real-time applications using **WebSockets**
-* 🌐 Modern frontend development with **Vue.js & React**
+* 📡 Real-time applications and **WebSockets**
+* 🌐 Modern web development with **Vue.js & React**
 * ☁️ Cloud services and modern development tools
 
 ---
@@ -84,12 +85,13 @@ My core areas include:
 
 ## 🎯 Current Focus
 
-* Deepening my expertise in **Laravel & PHP**
-* Building scalable and maintainable **software architectures**
-* Improving **API design and application performance**
-* Expanding my frontend expertise with **React and modern JavaScript**
-* Working with **Docker and cloud technologies**
-* Continuously learning and improving software engineering practices
+* Building scalable and maintainable **software systems**
+* Deepening expertise in **PHP & Laravel**
+* Designing robust **RESTful APIs**
+* Improving application performance and database efficiency
+* Developing modern web interfaces with **Vue.js & React**
+* Working with **Docker, cloud services, and modern development tools**
+* Applying clean, secure, and maintainable software engineering practices
 
 ---
 
